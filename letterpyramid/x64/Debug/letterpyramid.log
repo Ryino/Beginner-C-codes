@@ -1,0 +1,3 @@
+﻿  letterpyramid.cpp
+D:\c++\letterpyramid\letterpyramid.cpp(15,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  letterpyramid.vcxproj -> D:\c++\letterpyramid\x64\Debug\letterpyramid.exe

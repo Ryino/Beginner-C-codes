@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8df4dab8-d489-448d-80c5-a6130e3f2854": {
+      "ProjectGuid": "8df4dab8-d489-448d-80c5-a6130e3f2854",
+      "DisplayName": "Expression counter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0489be68-bdb2-45cc-80df-250c42deeeb5": {
+      "ProjectGuid": "0489be68-bdb2-45cc-80df-250c42deeeb5",
+      "DisplayName": "snakes and laddders",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

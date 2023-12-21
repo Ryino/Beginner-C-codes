@@ -1,0 +1,4 @@
+﻿  frndfunction.cpp
+D:\c++\frndfunction\frndfunction.cpp(28,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\frndfunction\frndfunction.cpp(29,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  frndfunction.vcxproj -> D:\c++\frndfunction\x64\Debug\frndfunction.exe

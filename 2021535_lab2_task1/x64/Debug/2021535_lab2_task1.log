@@ -1,0 +1,3 @@
+﻿  2021535_lab2_task1.cpp
+D:\c++\2021535_lab2_task1\2021535_lab2_task1.cpp(35,18): error C2451: a conditional expression of type 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' is not valid
+D:\c++\2021535_lab2_task1\2021535_lab2_task1.cpp(35,15): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called

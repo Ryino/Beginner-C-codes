@@ -1,0 +1,3 @@
+﻿  tas2_lab2.cpp
+D:\c++\tas2_lab2\tas2_lab2.cpp(59,25): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  tas2_lab2.vcxproj -> D:\c++\tas2_lab2\x64\Debug\tas2_lab2.exe

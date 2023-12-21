@@ -1,0 +1,1 @@
+D:\c++\pallindrome\x64\Debug\pallindrome.exe

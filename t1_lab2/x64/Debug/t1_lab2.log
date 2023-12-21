@@ -1,0 +1,3 @@
+﻿  t1_lab2.cpp
+D:\c++\t1_lab2\2021535_task1.h(33,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  t1_lab2.vcxproj -> D:\c++\t1_lab2\x64\Debug\t1_lab2.exe
